@@ -1,6 +1,6 @@
 # Preferendus
 
-**Preference-Based Optimisation - IMAP Inter-Generational Solver (IGS) Framework**
+**Preference-Based Optimisation - IMAP Inter-Generational Solver (IGS) Framework // **
 
 ---
 
