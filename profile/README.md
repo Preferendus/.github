@@ -18,12 +18,11 @@ The methodology is operationalised through the Preferendus software suite, compr
 
 For more information, see the [Preferendus Landscape](./261016_Preferendus_Landscape_Full.pdf) and accompanying documentation.
 
-Earlier work, including the original open-source **Preferendus** package and the first IMAP-IGS-GA demonstrators, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys) and [xx](https://github.com/TUDelft-IMAP-IGS).
-Read more abouth the Odesys-Preferendus landscape, 
+Earlier work, including the original open-source **Preferendus**  and the IMAP-IGS solver family, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys) and [TUDelft-IMAP-IGS](https://github.com/TUDelft-IMAP-IGS) respectively.
 
 ---
 
-## Preferendus Landscape Overview
+## Preferendus Landscape - Agent - IMAP-IGS
 
 [![Preferendus Landscape](./Preferendus_landscape.jpeg)](./Preferendus_landscape.jpeg)
 
@@ -39,22 +38,35 @@ Read more abouth the Odesys-Preferendus landscape,
 ### [`IMAP-IGS`]()
 To be Published.
 
-### [`IMAP-IGS`]()
+### [`TOMAP`]()
 To be Published.
 
+### [`A_FINE Aggregator`]()
+To be Published.
+
+### [`Preferendus-Agent`]()
+To be Published.
 
 ---
 
 ## References
 
-- Wolfert, A.R.M. (Rogier) et al. (2023). *Open Design Systems (ODESYS)*. IOS Press
-  [IOS Press Ebooks - Open Design Systems](https://doi.org/10.3233/RIDS10) (or [https://books.open.tudelft.nl/home/catalog/book/78](https://books.open.tudelft.nl/home/catalog/book/78))
+- Ozer, E. & Wolfert, A.R.M. (2026). Ordering Is Not Deciding: Towards Preference-Consistent Design–Decision Optimisation. To be published
 
-- Woflert, A.R.M. (Rogier) (2026). *Unique Preference Aggregation in Design and Decision Making*. TU Delft.
-  https://doi.org/10.48550/arXiv.2601.19759
+- Timp, L.J.K., Yorke-Smith, N. & Wolfert, A.R.M (2026). Solving highly constrained multi-objective decision problems with preference-guided metaheuristics: The IMAP-
+IGS framework. *ArXiv*. https://doi.org/10.48550/arXiv.2607.17304
 
-- Timp, L.J.K. (Lennard), Yorke-Smith, N. (Neil), Wolfert, A.R.M. (Rogier) *Solving Highly Constrained Multi-Objective Decision Problems with Preference-Guided Metaheuristics: The IMAP-IGS Framework*
-  To be published.
+- Wolfert, A.R.M. (2026). Preference-Based Optimisation in Group Decision-Making. *arXiv*. https://doi.org/10.48550/arXiv.2603.19050 
+
+- Woflert, A.R.M. (2026). Unique Preference Aggregation in Design and Decision Making. *arXiv* https://doi.org/10.48550/arXiv.2601.19759
+
+- Teuber, L.G., van Heukelum, H.J., & Wolfert, A.R.M. (2025). Advancing strategic planning and dynamic control of complex projects. *arXiv*. https://doi.org/10.48550/arXiv.2408.12422
+
+- Teuber, L.G., & Wolfert, A.R.M. (2024). Confronting Conflicts to Yes: Untangling Wicked Problems with Open Design Systems. *arXiv*. https://doi.org/10.48550/arXiv.2409.10549
+
+- Van Heukelum, H.J., Binnekamp, R., & Wolfert, A.R.M. (2024). Socio-technical systems integration and design: a multi-objective optimisation method based on integrative preference maximisation.  *arXiv*. https://doi.org/10.48550/arXiv.2304.07168
+
+- Wolfert, A.R.M. (Rogier) (2023). *Open Design Systems*. IOS Press https://doi.org/10.3233/RIDS10 or https://books.open.tudelft.nl/home/catalog/book/78
 
 ---
 
@@ -62,4 +74,4 @@ To be Published.
 
 This project is licensed under the **MIT License** - see the [`LICENSE`](./LICENSE) file for details.
 
-Copyright (cc) 2026 Preferendus & Odesys Contributors
+Creative Common (CC) 2026 Preferendus & Odesys Contributors
