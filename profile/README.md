@@ -18,15 +18,15 @@ The methodology is operationalised through the Preferendus software suite, compr
 
 For more information, see the [Preferendus Landscape](./261016_Preferendus_Landscape_Full.pdf) and accompanying documentation.
 
-Earlier work, including the original open-source **Preferendus** package and the first IMAP-IGS-GA demonstrators, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
+Earlier work, including the original open-source **Preferendus** package and the first IMAP-IGS-GA demonstrators, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys) and [xx](https://github.com/TUDelft-IMAP-IGS).
 Read more abouth the Odesys-Preferendus landscape, 
 
 ---
 
 ## Repositories
 
-### [`IGS-GA-I`](https://github.com/TUDelft-IMAP-IGS/IGS-GA-I)
-The original IGS-GA algorithm - the foundational **Inter-Generational Solver** using a Genetic Algorithm backbone. This is a user-friendly implementation, equivalent to the original version linked to all ODESYS book examples. It integrates IMAP preference aggregation directly into standard GA survival selection.
+### [`IMAP-IGS`]()
+To be Published.
 
 ### [`IGS-GA-II`](https://github.com/TUDelft-IMAP-IGS/IGS-GA-II)
 An improvement on IGS-GA-I, built on the **NSGA-II** genetic loop (crossover, mutation, mating) but replacing non-dominated sorting and crowding distance with **IMAP affine aggregation** survival. Designed for benchmarking against reference test suites (e.g. DAS-CMOP). Supports multi-stakeholder preference models, constraint handling via the Constraint Dominance Principle (CDP), tournament and truncation selection, and an optional cross-generation archive to stabilise IMAP Z-score normalisation.
