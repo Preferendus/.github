@@ -18,7 +18,7 @@ The methodology is operationalised through the Preferendus software suite, compr
 
 For more information, see the [Preferendus Landscape](./261016_Preferendus_Landscape_Full.pdf) and accompanying documentation.
 
-Earlier work, including the original open-source **Preferendus** and the IMAP-IGS solver family, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys) and [TUDelft-IMAP-IGS](https://github.com/TUDelft-IMAP-IGS) respectively.  For general information about ODESYS, readers are referred to [ODESYS](https://odesys.nl/).
+Earlier work, including the original open-source **Preferendus** and the IMAP-IGS solver family, can be found in the following GitHub repositories: [TUDelft-Odesys](https://github.com/TUDelft-Odesys) and [TUDelft-IMAP-IGS](https://github.com/TUDelft-IMAP-IGS), respectively.  For general information about ODESYS, readers are referred to [ODESYS](https://odesys.nl/).
 
 ---
 
