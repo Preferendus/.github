@@ -69,4 +69,4 @@ For an overview of how IMAP design-decision optimisation relates to other optimi
 
 This project is licensed under the **MIT License** - see the [`LICENSE`](./LICENSE) file for details.
 
-Copyright (c) 2026 TUDelft-IMAP-IGS Contributors
+Copyright (cc) 2026 Preferendus & Odesys Contributors
