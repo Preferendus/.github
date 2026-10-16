@@ -25,7 +25,11 @@ Read more abouth the Odesys-Preferendus landscape,
 
 ## Preferendus Landscape Overview
 
-[![Optimisation landscape](./Optimisation_landscape.jpg)](./Optimisation_landscape.pdf)
+[![Preferendus Landscape](./Preferendus_landscape.jpeg)](./Preferendus_landscape.jpeg)
+
+[![Preferendus Agent](./Preferendus_Agent.jpeg)](./Preferendus_Agent.jpeg)
+
+[![Preferendus IMAP-IGS](./Preferendus_IMAP_IGS.jpeg)](./Preferendus_IMAP_IGS.jpeg)
  
 
 ---
@@ -35,17 +39,9 @@ Read more abouth the Odesys-Preferendus landscape,
 ### [`IMAP-IGS`]()
 To be Published.
 
-### [`IGS-GA-II`](https://github.com/TUDelft-IMAP-IGS/IGS-GA-II)
-An improvement on IGS-GA-I, built on the **NSGA-II** genetic loop (crossover, mutation, mating) but replacing non-dominated sorting and crowding distance with **IMAP affine aggregation** survival. Designed for benchmarking against reference test suites (e.g. DAS-CMOP). Supports multi-stakeholder preference models, constraint handling via the Constraint Dominance Principle (CDP), tournament and truncation selection, and an optional cross-generation archive to stabilise IMAP Z-score normalisation.
+### [`IMAP-IGS`]()
+To be Published.
 
-### [`IGS-BRKGA`](https://github.com/TUDelft-IMAP-IGS/IGS-BRKGA)
-A **Biased Random-Key Genetic Algorithm (BRKGA)** instantiation of the IMAP-IGS framework, developed for combinatorial and constraint-heavy problems. Used as the solver for the Heterogeneous Vessel Allocation and Scheduling Problem (HVASP).
-
-### [`IGS-SI`](https://github.com/TUDelft-IMAP-IGS/IGS-SI)
-A **Swarm Intelligence (SI)** instantiation of the IMAP-IGS framework, targeting graph-based and routing optimisation problems. Implements the Preferendus method via Ant Colony Optimisation (ACO), with the same preference-aggregation interface as the GA-based solvers. Applicable to directed graph problems such as route planning and Markov-chain modelling.
-
-### [`IGS-RL`](https://github.com/TUDelft-IMAP-IGS/IGS-RL)
-A reinforcement-learning instantiation of the IMAP framework that uses PPO-based learning to optimise sequential decision-making under multiple preference criteria. It applies the same preference-aggregation logic to train policies for multi-criteria and constrained decision environments.
 
 ---
 
