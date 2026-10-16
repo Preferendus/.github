@@ -14,7 +14,7 @@ The methodology is operationalised through the Preferendus software suite, compr
 - TOMAP - Multi-criteria decision analysis (MCDA)
 - A-FINE Aggregator - Decision-valid preference aggregation
 - IGS Solver Family - Best-fit candidate search
-- Preferendus-Agent - AI-driven orchestration, dialogue, and delivery
+- Preferendus-Agent - Agent AI-driven dialogue and delivery
 
 For more information, see the [Preferendus Landscape](./261016_Preferendus_Landscape_Full.pdf) and accompanying documentation.
 
