@@ -41,7 +41,7 @@ To be Published.
 ### [`TOMAP`]()
 To be Published.
 
-### [`A_FINE Aggregator`]()
+### [`A-FINE Aggregator`]()
 To be Published.
 
 ### [`Preferendus-Agent`]()
