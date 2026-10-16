@@ -1,12 +1,22 @@
 # Preferendus
 
-**Preference-Based Optimisation - IMAP Inter-Generational Solver (IGS) Framework // **
+**A unified ecosystem for real-world design-decision optimisation, supported by human-in-the-loop AI-driven ODESYS-in-FIVES orchestration for better solutions with decisive impact // **
 
 ---
 
 ## About
 
-This is the home of Preferendus and its methods and solvers, a collection of preference-based optimisation solvers built on the IMAP (Integrative Maximisation of Aggregated Preferences) method. The page hosts five repositories, each constituting a distinct IMAP-IGS (Integrated General Solver) instantiation. Four repositories employ metaheuristic search instantiations for different optimisation problem classes: IGS-GA-I, IGS-GA-II, IGS-BRKGA, and IGS-SI. The fifth, IGS-RL, constitutes a reinforcement-learning instantiation that leverages PPO-based Reinforcement Learning (RL) as an IMAP-guided sequential-learning approach for multi-criteria decision-making (MCDM).
+ODESYS-in-FIVES is a state-of-the-art multidimensional design and decision systems methodology for multi-attribute, multi-actor design optimisation and decision analysis. It spans the design-decision problem-solving journey from intent to impact.
+
+The methodology is operationalised through the Preferendus software suite, comprising:
+
+• IMAP - Multi-objective design optimisation (MODO)
+• TOMAP - Multi-criteria decision analysis (MCDA)
+• A-FINE Aggregator - Decision-valid preference aggregation
+• IGS Solver Family - Best-fit candidate search
+• Preferendus-Agent - AI-driven orchestration, dialogue, and delivery
+
+For more information, see the Preferendus Landscape and accompanying documentation.
 
 Earlier work, including the original open-source **Preferendus** package and the first IMAP-IGS-GA demonstrators, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
 Read more abouth the Odesys-Preferendus landscape, see [`261008_ODESYS_Preferendus_Landscape_Ful.pdf`](./261008_ODESYS_Preferendus_Landscape_Ful.pdf).
