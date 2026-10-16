@@ -1,6 +1,6 @@
 # Preferendus
 
-**A unified ecosystem for real-world design-decision optimisation, supported by human-in-the-loop AI-driven ODESYS-in-FIVES orchestration for better solutions with decisive impact // **
+*A unified ecosystem for real-world design-decision optimisation, supported by human-in-the-loop AI-driven ODESYS-in-FIVES orchestration for better solutions with decisive impact*
 
 ---
 
@@ -10,16 +10,16 @@ ODESYS-in-FIVES is a state-of-the-art multidimensional design and decision syste
 
 The methodology is operationalised through the Preferendus software suite, comprising:
 
-• IMAP - Multi-objective design optimisation (MODO)
-• TOMAP - Multi-criteria decision analysis (MCDA)
-• A-FINE Aggregator - Decision-valid preference aggregation
-• IGS Solver Family - Best-fit candidate search
-• Preferendus-Agent - AI-driven orchestration, dialogue, and delivery
+- IMAP - Multi-objective design optimisation (MODO)
+- TOMAP - Multi-criteria decision analysis (MCDA)
+- A-FINE Aggregator - Decision-valid preference aggregation
+- IGS Solver Family - Best-fit candidate search
+- Preferendus-Agent - AI-driven orchestration, dialogue, and delivery
 
-For more information, see the Preferendus Landscape and accompanying documentation.
+For more information, see the [Preferendus Landscape](./261016_Preferendus_Landscape_Full.pdf) and accompanying documentation.
 
 Earlier work, including the original open-source **Preferendus** package and the first IMAP-IGS-GA demonstrators, can be found at [TUDelft-Odesys](https://github.com/TUDelft-Odesys).
-Read more abouth the Odesys-Preferendus landscape, see [`261008_ODESYS_Preferendus_Landscape_Ful.pdf`](./261008_ODESYS_Preferendus_Landscape_Ful.pdf).
+Read more abouth the Odesys-Preferendus landscape, 
 
 ---
 
