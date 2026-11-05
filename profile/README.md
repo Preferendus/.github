@@ -47,6 +47,9 @@ To be Published.
 ### [`Preferendus-Agent`]()
 To be Published.
 
+### [`Constraint-Handling`](https://github.com/Preferendus/Constraint-Handling)
+To be Published.
+
 ---
 
 ## References
