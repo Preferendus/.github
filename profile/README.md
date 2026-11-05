@@ -39,8 +39,7 @@ Earlier work, including the original open-source **Preferendus** and the IMAP-IG
 
 ### [`TOMAP`](https://github.com/Preferendus/TOMAP)
 
-### [`A-FINE Aggregator`]()
-To be Published.
+### [`A-FINE Aggregator`](https://github.com/Preferendus/A-FINE-Aggregator)
 
 ### [`Preferendus-Agent`]()
 To be Published.
