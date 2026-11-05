@@ -35,8 +35,7 @@ Earlier work, including the original open-source **Preferendus** and the IMAP-IG
 
 ## Repositories
 
-### [`IMAP-IGS`]()
-To be Published.
+### [`IMAP-IGS`](https://github.com/Preferendus/IMAP-IGS)
 
 ### [`TOMAP`]()
 To be Published.
