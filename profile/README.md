@@ -52,14 +52,20 @@ To be Published.
 
 ## References
 
-- Ozer, E. & Wolfert, A.R.M. (2026). Ordering Is Not Deciding: Towards Preference-Consistent Design–Decision Optimisation. To be published
+- Wolfert, A.R.M. & Ozer, E. (2026). The Pairwise Decision Trap. Why Pairwise Trade-Offs Can Be Numerically Defined Yet Decision-Invalid. To be published
+
+- Ozer, E. & Wolfert, A.R.M. (2026). Ordering Is Not Deciding: Towards Preference-Consistent Multi-Objective Design–Decision Optimisation. To be published
+
+- Woflert, A.R.M. (2026). Monetisation and Cost Function Scalarisation Cannot Guarantee Valid Multi-Criteria Decision-Making. To be published
+
+- Ozer, E. & Wolfert, A.R.M. (2026). Preference-Based Constraint Handling for Multi-Objective Design-Decision Optimisation: Acceptability Relaxation and Feasibility Guidance. To be published
 
 - Timp, L.J.K., Yorke-Smith, N. & Wolfert, A.R.M (2026). Solving highly constrained multi-objective decision problems with preference-guided metaheuristics: The IMAP-
 IGS framework. *ArXiv*. https://doi.org/10.48550/arXiv.2607.17304
 
-- Wolfert, A.R.M. (2026). Preference-Based Optimisation in Group Decision-Making. *arXiv*. https://doi.org/10.48550/arXiv.2603.19050 
+- Wolfert, A.R.M. (2026). Preference-Based Optimisation for Integrated Design and Group Decision-Making. *arXiv*. https://doi.org/10.48550/arXiv.2603.19050 
 
-- Woflert, A.R.M. (2026). Unique Preference Aggregation in Design and Decision Making. *arXiv* https://doi.org/10.48550/arXiv.2601.19759
+- Woflert, A.R.M. (2026). Unique Preference Aggregation for Multi-Criteria Design and Decision-Making. *arXiv* https://doi.org/10.48550/arXiv.2601.19759
 
 - Teuber, L.G., van Heukelum, H.J., & Wolfert, A.R.M. (2025). Advancing strategic planning and dynamic control of complex projects. *arXiv*. https://doi.org/10.48550/arXiv.2408.12422
 
