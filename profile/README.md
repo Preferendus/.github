@@ -46,6 +46,8 @@ To be Published.
 
 ### [`Constraint-Handling`](https://github.com/Preferendus/Constraint-Handling)
 
+### [`IMAP-vs-Pareto`](https://github.com/Preferendus/IMAP-vs-Pareto)
+
 ---
 
 ## References
