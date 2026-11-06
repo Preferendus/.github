@@ -41,8 +41,7 @@ Earlier work, including the original open-source **Preferendus** and the IMAP-IG
 
 ### [`A-FINE Aggregator`](https://github.com/Preferendus/A-FINE-Aggregator)
 
-### [`Preferendus-Agent`]()
-To be Published.
+### [`Preferendus-Agent`](https://github.com/Preferendus/Preferendus-Agent)
 
 ### [`Constraint-Handling`](https://github.com/Preferendus/Constraint-Handling)
 
